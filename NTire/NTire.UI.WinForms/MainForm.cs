@@ -21,8 +21,8 @@ namespace NTire.UI.WinForms
 
         private void btnEkle_Click(object sender, EventArgs e)
         {
-         
-            if(FormValidator.IsValid(pnlOgrenciBilgi))
+            MessageBox.Show("asd");
+            if (FormValidator.IsValid(pnlOgrenciBilgi))
             {
                 Ogrenci ogr = new Ogrenci()
                 {
@@ -33,7 +33,7 @@ namespace NTire.UI.WinForms
                 };
                 lbxOgrenciler.Items.Add(ogr);
             }
-          
+
 
         }
 
@@ -42,6 +42,6 @@ namespace NTire.UI.WinForms
 
         }
 
-    
+
     }
 }
