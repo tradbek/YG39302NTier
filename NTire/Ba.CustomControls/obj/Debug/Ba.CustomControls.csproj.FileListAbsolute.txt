@@ -1,0 +1,5 @@
+c:\users\ilker.erhalim\documents\visual studio 2013\Projects\NTire\Ba.CustomControls\bin\Debug\Ba.CustomControls.dll
+c:\users\ilker.erhalim\documents\visual studio 2013\Projects\NTire\Ba.CustomControls\bin\Debug\Ba.CustomControls.pdb
+c:\users\ilker.erhalim\documents\visual studio 2013\Projects\NTire\Ba.CustomControls\obj\Debug\Ba.CustomControls.csprojResolveAssemblyReference.cache
+c:\users\ilker.erhalim\documents\visual studio 2013\Projects\NTire\Ba.CustomControls\obj\Debug\Ba.CustomControls.dll
+c:\users\ilker.erhalim\documents\visual studio 2013\Projects\NTire\Ba.CustomControls\obj\Debug\Ba.CustomControls.pdb

@@ -1,0 +1,13 @@
+c:\users\ilker.erhalim\documents\visual studio 2013\Projects\NTire\NTire.UI.WinForms\obj\Debug\NTire.UI.WinForms.csprojResolveAssemblyReference.cache
+c:\users\ilker.erhalim\documents\visual studio 2013\Projects\NTire\NTire.UI.WinForms\obj\Debug\NTire.UI.WinForms.Properties.Resources.resources
+c:\users\ilker.erhalim\documents\visual studio 2013\Projects\NTire\NTire.UI.WinForms\obj\Debug\NTire.UI.WinForms.csproj.GenerateResource.Cache
+c:\users\ilker.erhalim\documents\visual studio 2013\Projects\NTire\NTire.UI.WinForms\bin\Debug\NTire.UI.WinForms.exe.config
+c:\users\ilker.erhalim\documents\visual studio 2013\Projects\NTire\NTire.UI.WinForms\bin\Debug\NTire.UI.WinForms.exe
+c:\users\ilker.erhalim\documents\visual studio 2013\Projects\NTire\NTire.UI.WinForms\bin\Debug\NTire.UI.WinForms.pdb
+c:\users\ilker.erhalim\documents\visual studio 2013\Projects\NTire\NTire.UI.WinForms\obj\Debug\NTire.UI.WinForms.exe
+c:\users\ilker.erhalim\documents\visual studio 2013\Projects\NTire\NTire.UI.WinForms\obj\Debug\NTire.UI.WinForms.pdb
+c:\users\ilker.erhalim\documents\visual studio 2013\Projects\NTire\NTire.UI.WinForms\obj\Debug\NTire.UI.WinForms.MainForm.resources
+c:\users\ilker.erhalim\documents\visual studio 2013\Projects\NTire\NTire.UI.WinForms\bin\Debug\Ba.CustomControls.dll
+c:\users\ilker.erhalim\documents\visual studio 2013\Projects\NTire\NTire.UI.WinForms\bin\Debug\NTire.Dto.dll
+c:\users\ilker.erhalim\documents\visual studio 2013\Projects\NTire\NTire.UI.WinForms\bin\Debug\Ba.CustomControls.pdb
+c:\users\ilker.erhalim\documents\visual studio 2013\Projects\NTire\NTire.UI.WinForms\bin\Debug\NTire.Dto.pdb
