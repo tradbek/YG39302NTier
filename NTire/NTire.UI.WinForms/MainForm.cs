@@ -21,7 +21,7 @@ namespace NTire.UI.WinForms
 
         private void btnEkle_Click(object sender, EventArgs e)
         {
-            MessageBox.Show("sdf");
+         
             if(FormValidator.IsValid(pnlOgrenciBilgi))
             {
                 Ogrenci ogr = new Ogrenci()
